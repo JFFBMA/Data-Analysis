@@ -15,7 +15,7 @@ Para ello, usarás dos fuentes reales de datos:
 
 Tu misión será limpiar, unir y analizar ambas bases para obtener información útil para la toma de decisiones.
 
-[![](https://img.shields.io/badge/📄_Open specification PDF-blue?style=for-the-badge)](./Movilidad%20urbana%20y%20productividad%20econ%C3%B3mica.pdf)
+[![](https://img.shields.io/badge/📄_Open_specification_PDF-blue?style=for-the-badge)](./Movilidad%20urbana%20y%20productividad%20econ%C3%B3mica.pdf)
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
