@@ -27,7 +27,10 @@ Haz clic en el siguiente botón:
 
 ## 🧠 Objetivo del análisis
 
-- Identificar problemas de calidad de datos
-- Construir un pipeline de limpieza reproducible
-- Analizar comportamientos, distribuciones y outliers
-- Generar insights para el equipo de Estrategia e Integración de American Development Bank.
+1.	Crear un dataset único y limpio a partir de dos fuentes diferentes.
+2.	Aplicar limpieza, estandarización y validación de tipos de datos.
+3.	Filtrar y enfocar el análisis en el año 2024.
+4.	Calcular indicadores agregados (por ciudad–año).
+5.	Realizar análisis exploratorios y visuales.
+6.	Documentar todos los pasos en Jupyter Notebook, exportar un dataset final y listo para análisis.
+
