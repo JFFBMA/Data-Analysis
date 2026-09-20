@@ -23,7 +23,7 @@ Tu misión será limpiar, unir y analizar ambas bases para obtener información 
 ## ▶ Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente botón:
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](./American%20Development%20Bank%20mobility_economy_project.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1zcLr_8yHakREKQdlSxigJ7wAAmYhhK6q/view?usp=sharing)
 
 ## 🧠 Objetivo del análisis
 
