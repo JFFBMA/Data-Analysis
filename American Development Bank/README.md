@@ -13,3 +13,5 @@ Movilidad urbana: TomTom Traffic Index (datos de tráfico en tiempo real).
 Economía urbana: OECD Cities (PIB per cápita, desempleo y población).
 
 Tu misión será limpiar, unir y analizar ambas bases para obtener información útil para la toma de decisiones.
+
+[![](https://img.shields.io/badge/📄_Abrir_PDF_de_especificaciones-blue?style=for-the-badge)](./Movilidad urbana y productividad económica.pdf)
