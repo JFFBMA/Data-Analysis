@@ -25,3 +25,9 @@ Tu misión será limpiar, unir y analizar ambas bases para obtener información 
 Haz clic en el siguiente botón:
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](./American%20Development%20Bank%20mobility_economy_project.ipynb)
 
+## 🧠 Objetivo del análisis
+
+- Identificar problemas de calidad de datos
+- Construir un pipeline de limpieza reproducible
+- Analizar comportamientos, distribuciones y outliers
+- Generar insights para el equipo de Estrategia e Integración de American Development Bank.
