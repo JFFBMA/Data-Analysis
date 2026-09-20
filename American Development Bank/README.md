@@ -14,5 +14,5 @@ Economía urbana: OECD Cities (PIB per cápita, desempleo y población).
 
 Tu misión será limpiar, unir y analizar ambas bases para obtener información útil para la toma de decisiones.
 
-[![](https://img.shields.io/badge/📄_Abrir_PDF_de_especificaciones-blue?style=for-the-badge)](./Data-Analysis/American Development Bank/Movilidad urbana y productividad económica.pdf)
-[![](https://img.shields.io/badge/📄_Abrir_PDF_de_especificaciones-blue?style=for-the-badge)](./Movilidad urbana y productividad económica.pdf)
+
+[![](https://img.shields.io/badge/📄_Abrir_PDF_de_especificaciones-blue?style=for-the-badge)](./Movilidad%20urbana%20y%20productividad%20econ%C3%B3mica.pdf)
