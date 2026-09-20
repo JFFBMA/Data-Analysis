@@ -9,15 +9,11 @@ El objetivo del banco es identificar en qué ciudades invertir en infraestructur
 
 Para ello, usarás dos fuentes reales de datos:
 
-Movilidad urbana: TomTom Traffic Index (datos de tráfico en tiempo real).
+- `Movilidad urbana`: TomTom Traffic Index (datos de tráfico en tiempo real).
 
-Economía urbana: OECD Cities (PIB per cápita, desempleo y población).
+- `Economía urbana`: OECD Cities (PIB per cápita, desempleo y población).
 
 Tu misión será limpiar, unir y analizar ambas bases para obtener información útil para la toma de decisiones.
-
-- `notebooks/everpeak_analysis.ipynb`  → Notebook principal con limpieza, EDA, 
-
-
 
 [![](https://img.shields.io/badge/📄_Abrir_PDF_de_especificaciones-blue?style=for-the-badge)](./Movilidad%20urbana%20y%20productividad%20econ%C3%B3mica.pdf)
 
