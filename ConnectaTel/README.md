@@ -14,27 +14,24 @@ Para ello, trabajarás con tres fuentes de datos:
 Explorar, limpiar y analizar estas bases de datos para construir una visión clara, confiable y accionable sobre el comportamiento de uso de los clientes y cómo varía entre diferentes grupos de usuarios.
 
 ##🔄 Flujo general del proyecto
-
-Paso	                    Acción	                                      Resultado para el negocio
-1. Cargar y explorar	    Cargar y explorar plans, users_latam, usage.	Visión clara de la estructura y tipos de columna de cada dataset.
-2. Identificación de 	    Contar nulos, detectar sentinels, revisar fechas fuera de rango.	Lista priorizada de problemas que pueden sesgar decisiones.
-   problemas de calidad
-4. Limpieza básica	Reemplazar sentinels, convertir fechas, imputar o marcar NA según reglas.	Datos consistentes y listos para análisis estadístico.
-5. Summary statistics	Revisar las medidas clave en variables categóricas y numéricas.	Medidas clave (media, mediana, percentiles) que muestran el comportamiento típico y extremo
-6. Visualización & outliers	Creación de histogramas y boxplots.	Visualización de sesgos, patrones de usuarios o datos atípicos.
-7. Segmentación	Crear segmentaciones basadas en reglas claras; visualizar proporciones con countplots.	Segmentos accionables que permiten diseñar ofertas, campañas y migraciones de plan.
-8. Insight ejecutivo	Redactar conclusiones y recomendaciones comerciales basadas en los pasos anteriores.	Responder a las preguntas del negocio y proponer acciones concretas.
-9. Publicación	Subir tu notebook + README a GitHub.	Entrega reproducible para revisión y ejecución por stakeholders.
+Paso-Acción-Resultado para el negocio
+1. Cargar y explorar-Cargar y explorar plans, users_latam, usage.-Visión clara de la estructura y tipos de columna de cada dataset.
+2. Identificación de problemas de calidad-Contar nulos, detectar sentinels, revisar fechas fuera de rango.-Lista priorizada de  que pueden sesgar decisiones.
+3. Limpieza básica-Reemplazar sentinels, convertir fechas, imputar o marcar NA según reglas.-Datos consistentes y listos para análisis estadístico.
+4. Summary statistics-Revisar las medidas clave en variables categóricas y numéricas.-Medidas clave (media, mediana, percentiles) que muestran el comportamiento típico y extremo
+5. Visualización & outliers-Creación de histogramas y boxplots.-Visualización de sesgos, patrones de usuarios o datos atípicos.
+6. Segmentación-Crear segmentaciones basadas en reglas claras; visualizar proporciones con countplots.-Segmentos accionables que permiten diseñar ofertas, campañas y migraciones de plan.
+7. Insight ejecutivo-Redactar conclusiones y recomendaciones comerciales basadas en los pasos anteriores.-Responder a las preguntas del negocio y proponer acciones concretas.
+8. Publicación-Subir tu notebook + README a GitHub.-Entrega reproducible para revisión y ejecución por stakeholders.
 
 ## 📂 Contenido del repositorio
 - `ConnectaTel.ipynb` → Notebook principal con limpieza, EDA, distribuciones, outliers, visualizaciones y conclusiones.
-- `Movilidad urbana y productividad económica.pdf` → Requerimientos y solicitudes del proyecto
-[![](https://img.shields.io/badge/📄_Open_specification_PDF-blue?style=for-the-badge)](./Movilidad%20urbana%20y%20productividad%20econ%C3%B3mica.pdf)
+  
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente botón:
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1zcLr_8yHakREKQdlSxigJ7wAAmYhhK6q/view?usp=sharing)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1SpZEzdGgMO5SclBzOJwkqdBwhHoT37hZ/view?usp=drive_link)
 
 ## 🧠 Objetivo del análisis
 
