@@ -14,6 +14,7 @@ Para ello, trabajarás con tres fuentes de datos:
 Explorar, limpiar y analizar estas bases de datos para construir una visión clara, confiable y accionable sobre el comportamiento de uso de los clientes y cómo varía entre diferentes grupos de usuarios.
 
 ##🔄 Flujo general del proyecto
+
 Paso	                    Acción	                                      Resultado para el negocio
 1. Cargar y explorar	    Cargar y explorar plans, users_latam, usage.	Visión clara de la estructura y tipos de columna de cada dataset.
 2. Identificación de 	    Contar nulos, detectar sentinels, revisar fechas fuera de rango.	Lista priorizada de problemas que pueden sesgar decisiones.
