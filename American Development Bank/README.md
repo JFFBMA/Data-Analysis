@@ -23,8 +23,7 @@ Tu misión será limpiar, unir y analizar ambas bases para obtener información 
 ## ▶ Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente botón:
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://drive.google.com/file/d/1zcLr_8yHakREKQdlSxigJ7wAAmYhhK6q/view?usp=sharing](https://github.com/JFFBMA/Data-Analysis/blob/8910a6777121fc21c4e8429301f534ab9d8a6603/American%20Development%20Bank/S5%20American%20Development%20Bank%20mobility_economy.ipynb))
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
 ## 🧠 Objetivo del análisis
 
 1.	Crear un dataset único y limpio a partir de dos fuentes diferentes.
