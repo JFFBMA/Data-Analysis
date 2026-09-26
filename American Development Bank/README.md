@@ -16,9 +16,9 @@ Tu misión será limpiar, unir y analizar ambas bases para obtener información 
 
 
 ## 📂 Contenido del repositorio
-- `American Development Bank mobility_economy_project.ipynb` → Notebook principal con limpieza, EDA, distribuciones, outliers, visualizaciones y conclusiones.
+- `S5 American Development Bank mobility_economy.ipynb` → Notebook principal con limpieza, EDA, distribuciones, outliers, visualizaciones y conclusiones.
 - `Movilidad urbana y productividad económica.pdf` → Requerimientos y solicitudes del proyecto
-[![](https://img.shields.io/badge/📄_Open_specification_PDF-blue?style=for-the-badge)](./Movilidad%20urbana%20y%20productividad%20econ%C3%B3mica.pdf)
+[![](https://img.shields.io/badge/📄_Open_specification_PDF-blue?style=for-the-badge)](https://github.com/JFFBMA/Data-Analysis/blob/main/American%20Development%20Bank/Movilidad%20urbana%20y%20productividad%20econ%C3%B3mica.pdf)
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
