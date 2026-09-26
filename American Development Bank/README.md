@@ -24,10 +24,6 @@ Tu misión será limpiar, unir y analizar ambas bases para obtener información 
 Haz clic en el siguiente botón:
 [![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JFFBMA/Data-Analysis/blob/main/American%20Development%20Bank/FNL-S5%20American%20Development%20Bank.ipynb)
 
-
-
-[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JFFBMA/Data-Analysis/blob/main/American%20Development%20Bank/FNL-S5%20American%20Development%20Bank.ipynb)
-
 ## 🧠 Objetivo del análisis
 
 1.	Crear un dataset único y limpio a partir de dos fuentes diferentes.
