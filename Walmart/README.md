@@ -24,7 +24,7 @@ Tu misión será limpiar, unir y analizar las tres bases para obtener informaci�
   [![](https://img.shields.io/badge/📄_Open_specification_PDF-blue?style=for-the-badge)](https://github.com/JFFBMA/Data-Analysis/blob/main/Walmart/FNL%20Proyecto%202_%20Resumen%20Ejecutivo%20de%20Ventas%20Walmart.xlsx)
 
 - `ESP Especificaciones - Resumen Ejecutivo de Ventas Walmart.pdf` → Requerimientos y solicitudes del proyecto
-[![](https://img.shields.io/badge/📄_Open_specification_PDF-blue?style=for-the-badge)](https://github.com/JFFBMA/Data-Analysis/blob/main/Walmart/FNL%20Proyecto%202_%20Resumen%20Ejecutivo%20de%20Ventas%20Walmart.xlsx)
+[![](https://img.shields.io/badge/📄_Open_specification_PDF-blue?style=for-the-badge)](https://github.com/JFFBMA/Data-Analysis/blob/main/Walmart/ESP%20Especificaciones%20-%20Resumen%20Ejecutivo%20de%20Ventas%20Walmart.pdf)
 
 ## 🧠 Objetivo del Proyecto
 
